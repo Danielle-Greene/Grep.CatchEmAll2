@@ -1,16 +1,19 @@
 # Part 1
 ### a)
+ggrep -P "^[Pokemon Name]" filescan_00.4 > [Pokemon Name].txt
 
 
 
-
-### b)
+### b) Done
 
 
 
 ### c)
 
-
+filescan_00.1 - beedrill, blastoise, bulbasaur, butterfree
+filescan_00.2 - charizard, charmander, charmeleon
+filescan_00.3 - ivysaur, jigglypuff, meowth, pikachu
+filescan_00.4 - psyduck, squirtle, venusaur, wartorle
 
 
 
@@ -25,14 +28,14 @@
 # Part 2
 ### a)
 
-
+15
 
 
 
 
 ### b)
 
-
+Pikachu, Charizard, Beedrill
 
 
 
